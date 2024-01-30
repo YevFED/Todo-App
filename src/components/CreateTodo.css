@@ -1,0 +1,27 @@
+.inputWrapper {
+  background-color: rgb(43, 43, 43);
+  width: 600px;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 0.5px solid rgba(119, 0, 255, 0.527);
+  margin-bottom: 75px;
+}
+
+.todoInput {
+  background-color: transparent;
+  border: 1px solid rgb(255, 255, 255);
+  width: 400px;
+  height: 50px;
+  font-size: 25px;
+  font-weight: 500;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.addIcon {
+  fill: rgb(139, 2, 180);
+  cursor: pointer;
+}

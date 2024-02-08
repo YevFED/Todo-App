@@ -13,7 +13,7 @@
 .todoTitle {
   margin-left: 30px;
   font-weight: 500;
-  font-size: 25px;
+  font-size: 20px;
 }
 .fTodoTitle {
   margin-left: 30px;
@@ -21,7 +21,7 @@
   text-decoration: line-through;
   text-decoration-color: rgb(119, 0, 255);
   text-decoration-thickness: 3px;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .completeBorder {
